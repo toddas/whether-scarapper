@@ -3,7 +3,7 @@
 This small program goes in to the local wheather website and finds the wether for upcoming week it displays a date date code(will be used in the upcoming app) weekday day temrature and wind speed and night teperature and windspeed 
 
 #req
-re - https://docs.python.org/2/library/re.html
+re - https://docs.python.org/2/library/re.html <br>
 bs4 - https://pypi.org/project/bs4/
 urllib - https://docs.python.org/2/library/urllib.html
 
