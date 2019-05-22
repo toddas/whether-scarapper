@@ -1,6 +1,6 @@
 # whether-scarapper<br>
 
-This small program goes into the local weather website and finds the weather for the upcoming week it displays a date, date code(will be used in the upcoming app) weekday day temperature and wind speed and night temperature and wind speed<br> 
+This small program goes into the local weather website and finds the weather for the upcoming week it displays a date, weekday day temperature and wind speed and night temperature and wind speed at day<br> 
 
 #req<br>
 re - https://docs.python.org/2/library/re.html <br>
